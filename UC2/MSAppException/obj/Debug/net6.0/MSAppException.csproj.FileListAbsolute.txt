@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\bin\Debug\net6.0\MSAppException.exe
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\bin\Debug\net6.0\MSAppException.deps.json
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\bin\Debug\net6.0\MSAppException.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\bin\Debug\net6.0\MSAppException.dll
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\bin\Debug\net6.0\MSAppException.pdb
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.dll
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\refint\MSAppException.dll
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.pdb
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\MSAppException.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\day 21\UC2\MSAppException\obj\Debug\net6.0\ref\MSAppException.dll
